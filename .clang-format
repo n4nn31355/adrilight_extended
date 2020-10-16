@@ -1,0 +1,6 @@
+---
+BasedOnStyle: Mozilla
+---
+Language: Cpp
+AlignAfterOpenBracket: AlwaysBreak
+AlignOperands: false # Clang11: AlignAfterOperator
